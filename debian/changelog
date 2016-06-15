@@ -1,3 +1,30 @@
+libterm-animation-perl (2.6-12) yakkety; urgency=low
+
+  * Fix copyright.
+  * Build for Yakkety.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Wed, 15 Jun 2016 17:13:31 +0200
+
+libterm-animation-perl (2.6-11) xenial; urgency=low
+
+  * Fix copyright.
+  * Build for Xenial.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Wed, 15 Jun 2016 17:12:31 +0200
+
+libterm-animation-perl (2.6-9) trusty; urgency=low
+
+  * Fix copyright.
+  * Build for Trusty.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Wed, 15 Jun 2016 16:57:31 +0200
+
+libterm-animation-perl (2.6-8) precise; urgency=low
+
+  * Fix copyright.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Wed, 15 Jun 2016 15:28:31 +0200
+
 libterm-animation-perl (2.6-7) yakkety; urgency=low
 
   * Build for Yakkety.
