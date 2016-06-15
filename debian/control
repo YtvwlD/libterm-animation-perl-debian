@@ -2,14 +2,14 @@ Source: libterm-animation-perl
 Section: perl
 Priority: optional
 Maintainer: Niklas Sombert <niklas@ytvwld.de>
-Build-Depends: debhelper (>= 9)
+Build-Depends: debhelper (>= 9), libcurses-perl
 Build-Depends-Indep: perl
 Standards-Version: 3.9.6
 Homepage: https://metacpan.org/release/Term-Animation
 
 Package: libterm-animation-perl
 Architecture: all
-Depends: ${misc:Depends}, ${perl:Depends}
+Depends: ${misc:Depends}, ${perl:Depends}, libcurses-perl
 Description: ASCII sprite animation framework
  Term::Animation provides a framework to produce sprite animations using ASCII
  art. Each ASCII 'sprite' is given one or more frames, and placed into the
