@@ -1,4 +1,40 @@
-libterm-animation-perl (2.6-1) unstable; urgency=low
+libterm-animation-perl (2.6-7) yakkety; urgency=low
+
+  * Build for Yakkety.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sat, 7 May 2016 14:25:31 +0200
+
+libterm-animation-perl (2.6-6) wily; urgency=low
+
+  * Build for Wily.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sat, 7 May 2016 14:24:31 +0200
+
+libterm-animation-perl (2.6-5) precise; urgency=low
+
+  * Build for Precise.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sat, 7 May 2016 14:22:31 +0200
+
+libterm-animation-perl (2.6-4) trusty; urgency=low
+
+  * Build for Trusty.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sat, 7 May 2016 14:21:31 +0200
+
+libterm-animation-perl (2.6-3) xenial; urgency=low
+
+  * Build-Dependency on libcurses-perl.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sat, 7 May 2016 14:11:31 +0200
+
+libterm-animation-perl (2.6-2) xenial; urgency=low
+
+  * Dependency on libcurses-perl.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sat, 7 May 2016 13:57:31 +0200
+
+libterm-animation-perl (2.6-1) xenial; urgency=low
 
   * Initial Release.
 
