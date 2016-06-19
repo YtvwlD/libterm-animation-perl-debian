@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Niklas Sombert <niklas@ytvwld.de>
 Build-Depends: debhelper (>= 9), libcurses-perl
 Build-Depends-Indep: perl
-Standards-Version: 3.9.6
+Standards-Version: 3.9.8
 Homepage: https://metacpan.org/release/Term-Animation
 
 Package: libterm-animation-perl
