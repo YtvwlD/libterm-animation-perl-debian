@@ -20,5 +20,3 @@ Description: ASCII sprite animation framework
  screen, and behaves accordingly. Alternatively, it can accept a curses window
  (created with the Curses newwin call) as an argument, and will draw into that
  window.
- .
- This description was automagically extracted from the module by dh-make-perl.
