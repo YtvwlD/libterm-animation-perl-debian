@@ -1,3 +1,38 @@
+libterm-animation-perl (2.6-17) xenial; urgency=low
+
+  * Update debian/control.
+  * Build for Yakkety.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sun, 19 Jun 2016 12:07:32 +0200
+
+libterm-animation-perl (2.6-16) xenial; urgency=low
+
+  * Update debian/control.
+  * Build for Xenial.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sun, 19 Jun 2016 12:07:31 +0200
+
+libterm-animation-perl (2.6-15) wily; urgency=low
+
+  * Update debian/control.
+  * Build for Wily.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sun, 19 Jun 2016 12:06:31 +0200
+
+libterm-animation-perl (2.6-14) trusty; urgency=low
+
+  * Update debian/control.
+  * Build for Trusty.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sun, 19 Jun 2016 12:05:31 +0200
+
+libterm-animation-perl (2.6-13) precise; urgency=low
+
+  * Update debian/control.
+  * Build for Yakkety.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sun, 19 Jun 2016 12:04:31 +0200
+
 libterm-animation-perl (2.6-12) yakkety; urgency=low
 
   * Fix copyright.
