@@ -1,3 +1,38 @@
+libterm-animation-perl (2.6-22) zesty; urgency=low
+
+  * Fix links.
+  * Build for Zesty.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sun, 19 Mar 2017 15:16:45 +0100
+
+libterm-animation-perl (2.6-21) yakkety; urgency=low
+
+  * Fix links.
+  * Build for Yakkety.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sun, 19 Mar 2017 15:15:45 +0100
+
+libterm-animation-perl (2.6-20) xenial; urgency=low
+
+  * Fix links.
+  * Build for Xenial.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sun, 19 Mar 2017 15:12:44 +0100
+
+libterm-animation-perl (2.6-19) trusty; urgency=low
+
+  * Fix links.
+  * Build for Trusty.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sun, 19 Mar 2017 15:07:35 +0100
+
+libterm-animation-perl (2.6-18) precise; urgency=low
+
+  * Fix links.
+  * Build for Precise.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sun, 19 Mar 2017 15:02:34 +0100
+
 libterm-animation-perl (2.6-17) xenial; urgency=low
 
   * Update debian/control.
