@@ -619,7 +619,7 @@ sub default_color {
 
   $entity->color_mask( $mask );
 
-Set the color mask for the entity. See the L<Term::Animation/COLOR|COLOR> section of
+Set the color mask for the entity. See the L<COLOR|Term::Animation/COLOR> section of
 L<Term::Animation> for details.
 
 =cut

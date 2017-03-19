@@ -176,7 +176,7 @@ animation. This is identical to:
   my $entity = Term::Animation::Entity->new(...);
   $anim->add_entity($entity);
 
-See L<Term::Animation::Entity/PARAMETERS|PARAMETERS> and L<Term::Animation::Entity/new|new>
+See L<PARANETERS|Term::Animation::Entity/PARAMETERS> and L<new|Term::Animation::Entity/new>
 in L<Term::Animation::Entity> for details on calling this method.
 
 =cut
