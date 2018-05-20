@@ -1,3 +1,9 @@
+libterm-animation-perl (2.6-25) cosmic; urgency=low
+
+  * Build for Cosmic.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sun, 20 May 2018 12:31:18 +0200
+
 libterm-animation-perl (2.6-24) bionic; urgency=low
 
   * Build for Bionic.
