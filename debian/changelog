@@ -1,3 +1,9 @@
+libterm-animation-perl (2.6-24) bionic; urgency=low
+
+  * Build for Bionic.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sun, 20 May 2018 12:20:46 +0200
+
 libterm-animation-perl (2.6-23) artful; urgency=low
 
   * Build for Artful.
