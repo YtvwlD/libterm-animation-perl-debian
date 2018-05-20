@@ -1,3 +1,9 @@
+libterm-animation-perl (2.6-23) artful; urgency=low
+
+  * Build for Artful.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sun, 20 May 2018 12:01:57 +0200
+
 libterm-animation-perl (2.6-22) zesty; urgency=low
 
   * Fix links.
