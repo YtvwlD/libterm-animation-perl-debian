@@ -1,3 +1,9 @@
+libterm-animation-perl (2.6-26) disco; urgency=low
+
+  * Build for Disco.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sun, 04 Nov 2018 13:44:33 +0100
+
 libterm-animation-perl (2.6-25) cosmic; urgency=low
 
   * Build for Cosmic.
