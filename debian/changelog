@@ -1,3 +1,9 @@
+libterm-animation-perl (2.6-28) focal; urgency=low
+
+  * Build for Focal.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sat, 16 Nov 2019 19:27:00 +0100
+
 libterm-animation-perl (2.6-27) eoan; urgency=low
 
   * Build for Eoan.
