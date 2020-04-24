@@ -1,3 +1,9 @@
+libterm-animation-perl (2.6-29) groovy; urgency=low
+
+  * Build for Groovy.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Fri, 24 Apr 2020 22:00:44 +0200
+
 libterm-animation-perl (2.6-28) focal; urgency=low
 
   * Build for Focal.
