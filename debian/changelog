@@ -1,3 +1,9 @@
+libterm-animation-perl (2.6-30) hirsute; urgency=low
+
+  * Build for Hirsute.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Thu, 28 Jan 2021 18:22:01 +0100
+
 libterm-animation-perl (2.6-29) groovy; urgency=low
 
   * Build for Groovy.
