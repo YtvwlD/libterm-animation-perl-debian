@@ -1,3 +1,9 @@
+libterm-animation-perl (2.6-35) mantic; urgency=low
+
+  * Build for Mantic.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sun, 05 May 2024 20:31:47 +0200
+
 libterm-animation-perl (2.6-34) lunar; urgency=medium
 
   * Build for Lunar.
