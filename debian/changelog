@@ -1,3 +1,9 @@
+libterm-animation-perl (2.6-36) noble; urgency=low
+
+  * Build for Noble.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sun, 05 May 2024 20:35:09 +0200
+
 libterm-animation-perl (2.6-35) mantic; urgency=low
 
   * Build for Mantic.
