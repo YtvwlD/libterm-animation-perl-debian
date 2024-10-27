@@ -1,3 +1,15 @@
+libterm-animation-perl (2.6-38) oracular; urgency=low
+
+  * Really build for Oracular.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sun, 27 Oct 2024 19:36:51 +0100
+
+libterm-animation-perl (2.6-37) noble; urgency=low
+
+  * Build for Oracular.
+
+ -- Niklas Sombert <niklas@ytvwld.de>  Sun, 27 Oct 2024 19:32:00 +0100
+
 libterm-animation-perl (2.6-36) noble; urgency=low
 
   * Build for Noble.
